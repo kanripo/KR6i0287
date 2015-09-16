@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀察諸法行經
+#+DATE: 2015-08-30 20:15:12.628056
+#+PROPERTY: JUAN 0
